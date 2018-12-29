@@ -8,7 +8,7 @@ Commentary assistant for arbitrary texts
 * **Reco.** Recombination and summarization.
 * **Agu.** The formal argumentation structure of the text.
 * **Ques.** Converting summaries into questions, and arguments into test.
-* **Tood.** Sequencing mediums of a type into critical path of steps.
+* **Tood.** Sequencing mediums of a type into critical path of steps to internalize them.
 
 
 # Inspiration
