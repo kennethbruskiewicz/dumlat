@@ -17,3 +17,5 @@ https://www.joelonsoftware.com/2000/05/26/reading-code-is-like-reading-the-talmu
 http://kronosapiens.github.io/blog/2016/01/11/blockchain-as-talmud.html
 
 http://www.yodaiken.com/2006/12/30/talmudic-codes/
+
+https://www.brandeis.edu/mandel/pdfs/TurnIt/TurnIt_CH4.pdf
