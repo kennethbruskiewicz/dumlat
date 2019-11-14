@@ -19,4 +19,6 @@ http://kronosapiens.github.io/blog/2016/01/11/blockchain-as-talmud.html
 
 http://www.yodaiken.com/2006/12/30/talmudic-codes/
 
+https://codearsonist.com/reading-for-programmers
+
 https://www.brandeis.edu/mandel/pdfs/TurnIt/TurnIt_CH4.pdf
