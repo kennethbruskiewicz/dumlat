@@ -4,13 +4,14 @@ Commentary assistant for arbitrary texts
 # Features
 
 * **Juxta.** Parsing through the text while comparing to previous and next sentences.
-* **Hyla.** Smart highlighting and annotation for key terms and definitions.
-* **Verif.** Validate the integrity of your text and your learning with citation trails and links.
+  * **Hyla.** Smart highlighting and annotation for key terms and definitions.
 * **Glossa.** Side notes for hermeneutics per term.
 * **Reco.** Recombination and summarization.
 * **Agu.** The formal argumentation structure of the text.
 * **Ques.** Converting summaries into questions, and arguments into test.
 * **Tood.** Sequencing mediums of a type into critical path of steps to internalize them.
+  * **Verif.** Validate the integrity of your text and your learning with citation trails and links.
+  * **Capt.** Templates for different media like books, lectures, problem sets, close-reading...
 
 
 # Inspiration
