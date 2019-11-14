@@ -4,6 +4,7 @@ Commentary assistant for arbitrary texts
 # Features
 
 * **Juxta.** Parsing through the text while comparing to previous and next sentences.
+* **Hyla.** Smart highlighting and annotation for key terms and definitions.
 * **Glossa.** Side notes for hermeneutics per term.
 * **Reco.** Recombination and summarization.
 * **Agu.** The formal argumentation structure of the text.
