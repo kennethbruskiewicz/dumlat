@@ -14,7 +14,8 @@ Uses Emacs with Python.
 * **Tood.** Sequencing mediums of a type into critical path of steps to internalize them.
   * **Verif.** Validate the integrity of your text and your learning with citation trails and links.
   * **Capt.** Templates for different media like books, lectures, problem sets, close-reading...
-* **Incr.** Reviewing the prose as well as your notes.
+* **Inca.** Reviewing the prose as well as your notes.
+* **Sly.** Scrivener-style side-views.
 
 # Modes
 * https://github.com/weirdNox/org-noter
