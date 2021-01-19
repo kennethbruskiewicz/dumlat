@@ -16,6 +16,7 @@ Uses Emacs with Python.
   * **Capt.** Templates for different media like books, lectures, problem sets, close-reading...
 * **Inca.** Reviewing the prose as well as your notes.
 * **Sly.** Scrivener-style side-views.
+* **Tranc.** Transclusion.
 
 # Modes
 * https://github.com/weirdNox/org-noter
