@@ -54,6 +54,7 @@ Why? Consider the workflow.
 * A button (like hyperbole) that triggers org-rifle on keyword on some default set of notes files?
 * Wordsmith Mode reimplemented in NLTK or Gensym?
 * Need a mode for "Automatic Factual Question Generation" (GenQuest)
+* Continually suggesting related passages and files?
 
 # Inspiration
 https://www.joelonsoftware.com/2000/05/26/reading-code-is-like-reading-the-talmud/
