@@ -27,6 +27,7 @@ Uses Emacs with Python.
 * https://github.com/cosmicexplorer/speech-tagger
 * https://github.com/pinard/Pymacs
 * https://www.emacswiki.org/emacs/OrgAnnotateFile
+* https://github.com/nobiot/org-marginalia
 * https://github.com/alphapapa/org-rifle
 * https://www.gnu.org/software/emacs/manual/html_node/emacs/PostScript.html
 * https://orgmode.org/worg/org-contrib/org-drill.html
@@ -68,6 +69,8 @@ http://www.yodaiken.com/2006/12/30/talmudic-codes/
 https://codearsonist.com/reading-for-programmers
 
 https://www.brandeis.edu/mandel/pdfs/TurnIt/TurnIt_CH4.pdf
+
+"Automatic Question Generation from Text for Self-Directed Learning" https://core.ac.uk/download/pdf/56377127.pdf
 
 # Alternatives
 Polar. Marginnote.
