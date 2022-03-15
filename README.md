@@ -32,6 +32,7 @@ Uses Emacs with Python.
 * https://www.gnu.org/software/emacs/manual/html_node/emacs/PostScript.html
 * https://orgmode.org/worg/org-contrib/org-drill.html
 * https://github.com/indrajithi/genquest
+* https://mullikine.github.io/posts/spacy-in-emacs/
 
 Why? Consider the workflow.
 
