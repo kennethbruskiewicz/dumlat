@@ -40,10 +40,10 @@ Why? Consider the workflow.
 **Modes:** Postscript Printer, PDFTools, DocView
 
 ## 1: Read media
-**Modes**: Highlight Thing, Wordsmith Mode, Speech-Tagger, Org-Drill
+**Modes**: Highlight Thing, Wordsmith Mode, Speech-Tagger, Org-Drill, SpaCY in Emacs
 
 ## 2: Make notes
-**Modes:** Org-Noter, Wordsmith Mode, Speech-Tagger
+**Modes:** Org-Noter, Wordsmith Mode, Speech-Tagger, SpaCY in Emacs
 
 ## 3: Form questions
 **Modes:** Anki Editor, GenQuest
