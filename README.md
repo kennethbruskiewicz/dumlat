@@ -33,6 +33,7 @@ Uses Emacs with Python.
 * https://orgmode.org/worg/org-contrib/org-drill.html
 * https://github.com/indrajithi/genquest
 * https://mullikine.github.io/posts/spacy-in-emacs/
+* https://github.com/zawawiAI/yolo_gpt
 
 Why? Consider the workflow.
 
